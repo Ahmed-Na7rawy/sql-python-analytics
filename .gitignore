@@ -30,3 +30,4 @@ Thumbs.db
 *.xlsx
 *.db
 *.sqlite3
+*.sqlite

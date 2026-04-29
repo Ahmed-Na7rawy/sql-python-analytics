@@ -16,7 +16,15 @@ This project demonstrates how SQL and Python work together in a real analytics w
 - `top_products.sql` — Top-selling products with YoY growth
 
 ## Visualizations
-> _Interactive Plotly charts to be added after analysis._
+The project now includes a comprehensive dashboard in `notebooks/sql_python_analysis.ipynb` with:
+- **KPI Dashboard**: Real-time business metrics.
+- **Logistics Analysis**: Delivery time trends.
+- **Geographic Insights**: Revenue concentration by Brazil State.
+- **Satisfaction Analysis**: Customer review distributions.
+- **Marketplace Mechanics**: Payment and Seller performance.
+
+## Database Schema
+The notebook includes a visual ER diagram representing the Olist relational structure.
 
 ## Getting Started
 ```bash
